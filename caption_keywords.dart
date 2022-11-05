@@ -39,6 +39,25 @@
     'dotnet',
     'networking',
     'computer networks',
-    
-
+    'web development';
+    'nodejs';
+    'mongodb';
+    'expressjs';
+    'data science';
+    'cyber security';
+    'database';
+    'c#';
+    'perl';
+    'ruby';
+    'rust';
+    'codechef';
+    'codeforces';
+    'leetcode';
+    'atcoder';
+    'visual basic';
+    'fortran';
+    'docker';
+    'kubernetes';
+    'git';
+    'api';
   ];
