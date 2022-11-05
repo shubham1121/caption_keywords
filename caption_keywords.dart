@@ -23,4 +23,22 @@
     'angular',
     'angularjs',
     'nodejs',
+    'bootstrap',
+    'android',
+    'tailwindcss',
+    'twitter',
+    'github',
+    'codeblocks',
+    'django',
+    'mongodb',
+    'html',
+    'css',
+    'kotlin',
+    'python',
+    'java',
+    'dotnet',
+    'networking',
+    'computer networks',
+    
+
   ];
