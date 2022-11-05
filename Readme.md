@@ -1,5 +1,5 @@
 # About
-## Add keywords related to technologies(Names) (software developement)/coding websites everyhing in small letters.
+## Add keywords related to technologies(Names) (software developement)/coding websites everyhing in small letters in the caption_keywords file.
 ## An example is already available in it try to follow the same approach.
 ### For Contribution
 1. Fork the repo.
